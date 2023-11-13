@@ -1,5 +1,7 @@
 # Genius Game
 
+![img](https://github.com/IgorNascAlves/genius-game/blob/main/img/genius.gif)
+
 Este é um jogo Genius, onde você testa sua memória e reflexos. O jogo exibirá uma sequência de cores e, em seguida, você deve repetir a sequência clicando nas cores na mesma ordem. À medida que você acerta as sequências, o jogo fica mais difícil.
 
 ## Instruções
